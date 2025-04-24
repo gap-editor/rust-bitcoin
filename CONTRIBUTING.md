@@ -158,7 +158,7 @@ running `just check-api`.
 - `primitives`
 - `units`
 
-Check the [API text files](api/README.md) for more information
+Check the [API documentation](contrib/api.sh) for more information
 on how to install the dependencies and create the text files.
 
 ### CI and Merging
